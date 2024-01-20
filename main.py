@@ -12,7 +12,7 @@ extrato = list()
 numero_saques = 0
 LIMITE_SAQUES = 3
 
-while True:
+while True: 
     opcao = input(menu)
     if opcao == "d":
         while True:
